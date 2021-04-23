@@ -6,3 +6,4 @@ bild
 bold schreiben **word**
 schreg schreiben _word_
 alt 3 für #grösse bstimmen je mehr# je grösser
+[begriff zum beschreiben des linkes](www.google.com) 
